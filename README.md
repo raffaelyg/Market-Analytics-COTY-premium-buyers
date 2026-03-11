@@ -17,7 +17,8 @@ This project was commissioned by Coty to evaluate the post-pandemic recovery and
 | Methodology	 | Growth Attribution, Switching Interaction, MC Synergy Analysis | 
 | Core Framework	| Market Polarisation & Functional "Job" Mapping | 
 | Key Finding	| 1 in 8 Tier 1-4 females use Medical Cosmetology; High synergy with Repair/Lifting
-🧠 Strategic Insights: The New Luxury Landscape |
+
+## 🧠 Strategic Insights: The New Luxury Landscape
 
 The analysis moved beyond simple market share to decode the underlying shifts in consumer behaviour and expectations:
 
