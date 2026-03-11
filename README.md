@@ -35,8 +35,8 @@ Note: Sensitive market data has been indexed or jittered to protect professional
 
 | No. | Focus Area	| Visual Component	| Key Executive Insight | 
 | :---: | --- | --- | --- |
-| 01	| Market Context	| ![Market Context](/images/Slide1.jpeg)	| **Recovery Profile**: Correlating GDP and Consumer Confidence recovery to luxury beauty spend. | 
-| 02	| Polarisation	| ![Polarisation](/images/Slide2.jpeg)	| **Segment Inflow**: Data proving the shift toward the extreme ends of the price ladder. |
+| 01	| Polarisation	| ![Market Context](/images/Slide1.jpeg)	|  **Segment Inflow**: Data proving the shift toward the extreme ends of the price ladder. | 
+| 02	| Traction Centre	| ![Polarisation](/images/Slide2.jpeg)	| **Cosmetological Medicine**: A new emerging beauty service that is going to lead how beauty consumers use skincare. |
 | 03	| Category Mix	| ![MC Penetration](/images/Slide3.jpeg)	| **Traction Centres**: Essence Water and Creams as the dominant Ultra-Premium entry points. |
 | 04	| Category by Pen%	| ![Category Mix](/images/Slide4.jpeg)	| **Traction Centres**: Understanding segments true popularity in the past year by number of buyers. |
 | 05	| Growth Attribution	| ![Growth Attribution](/images/Slide5.jpeg)	| **Opportunity Defining**: Finding out which segment holds the most growth potential for buyer extension and upselling space. |
