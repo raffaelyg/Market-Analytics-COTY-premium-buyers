@@ -1,5 +1,7 @@
 # Strategic Market Diagnostic: Ultra-Premium & Luxury Skincare Opportunities
-
+![Project Lifecycle](https://img.shields.io/badge/Project_Lifecycle-2023_--_2024-blue)
+![Strategy](https://img.shields.io/badge/Focus-Ultra_Premium_Markets_|_Blue_Ocean_Strategy-green)
+![Market](https://img.shields.io/badge/Market-China_Beauty_|_COTY-red)
 ## 📌 Executive Summary
 This project was commissioned by Coty to evaluate the post-pandemic recovery and long-term potential of the Ultra-Premium skincare market in Urban China. While the broader beauty market faced significant headwinds in early 2023, this analysis identified a critical Market Polarisation: a surge in consumption at the extreme ends of the price spectrum (Ultra-Luxury and Mass). By integrating Medical Cosmetology (MC) adoption data with longitudinal purchasing behaviour, we mapped the "New Luxury" landscape and identified functional white spaces for portfolio growth.
 
